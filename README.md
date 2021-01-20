@@ -4,4 +4,6 @@
 
 ![](giphy.gif)
 
-## currently learning 🖥 
+## currently learning 🖥 : Python
+## currently working on ⚒ : wumpuz.com
+## future projects 🔮
