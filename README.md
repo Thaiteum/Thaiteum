@@ -2,7 +2,7 @@
 
 ### I love 🐈, 🔭, 🍕 and 🚀
 
-![](giphy.gif)
+![](giphy (1).gif)
 
 ## currently learning 🖥 : Python
 ## currently working on ⚒ : wumpuz.com
