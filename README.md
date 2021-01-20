@@ -6,4 +6,4 @@
 
 ## currently learning 🖥 : Python
 ## currently working on ⚒ : wumpuz.com
-## future projects 🔮
+## future projects 🔮 : logicism.xyz
